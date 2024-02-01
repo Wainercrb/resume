@@ -22,10 +22,10 @@ function Experience() {
                 <header className="flex flow-row justify-between items-start mt-1">
                   <div>
                     <h3 className="font-mono font-bold">{name}</h3>
-                    <h4 className="font-mono font-semibold">{position}</h4>
+                    <h4 className="font-mono font-bold text-xs">{position}</h4>
                   </div>
 
-                  <time className="font-mono">{years}</time>
+                  <time className="font-mono text-slate-600">{years}</time>
                 </header>
 
                 <footer>

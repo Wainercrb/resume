@@ -3,6 +3,7 @@ import About from 'src/components/About';
 import Experience from 'src/components/Experience';
 import Education from 'src/components/Education';
 import Certification from 'src/components/Certification';
+import KeyboardManager from 'src/components/KeyboardManager';
 
 function Home() {
   return (
@@ -13,7 +14,9 @@ function Home() {
         <Experience />
         <Education />
         <Certification />
+        <br />
       </div>
+      <KeyboardManager />
     </main>
   );
 }

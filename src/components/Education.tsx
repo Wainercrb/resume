@@ -20,7 +20,7 @@ function Education() {
                     <h3 className="font-mono font-bold">{institution}</h3>
                   </div>
 
-                  <time className="font-mono">{years}</time>
+                  <time className="font-mono text-slate-600">{years}</time>
                 </header>
 
                 <footer>
