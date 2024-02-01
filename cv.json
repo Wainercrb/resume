@@ -1,0 +1,623 @@
+{
+  "basics": {
+    "name": "Wainer Rodríguez Bonilla",
+    "label": "Full Stack Engineer dedicated to crafting exceptional products with meticulous attention to detail.",
+    "image": "https://media.licdn.com/dms/image/C4D03AQHlE681mhvOMA/profile-displayphoto-shrink_200_200/0/1537145258422?e=1712188800&v=beta&t=Dg8KnXfc5qjYOSAvbtq4zq2fUllHl_Lk-Q-Jq0SPG2Y",
+    "email": "wainer.rodriguez.bonilla@gmail.com",
+    "phone": "+506 61250382",
+    "url": "https://midu.dev",
+    "summary": "I bring over 5 years of expertise in frontend and backend development as a highly skilled Software Engineer. Proficient in mainstream technology stacks, I excel in team leadership, problem-solving, and prioritize software development with a keen focus on scalability, user experience, and performance optimization.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "San Jose",
+      "countryCode": "CRC",
+      "region": "Costa Rica"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "wainer-rodriguez-bonilla",
+        "url": "https://www.linkedin.com/in/wainer-rodriguez-bonilla/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Wainercrb",
+        "url": "https://github.com/Wainercrb"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CRSS",
+      "position": "Full Stack Developer",
+      "url": "https://costaricasoftwareservices.com/",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "As a Full Stack Developer, I've contributed to two distinct projects: at Kaptyn, a transportation market company, I added new features on both frontend and backend. At Tech Revvy, a real estate market company, I spearheaded development from scratch, handling both frontend and backend aspects.",
+      "highlights": [
+        "Started the company"
+      ],
+      "tasks": [
+        "Utilized React.js, Angular, and React Native to craft engaging and interactive user interfaces. Maintained a strong commitment to CSS3 with adherence to W3C standards, ensuring responsive and visually appealing designs. Employed TypeScript for enhanced code quality and maintainability.",
+        "Demonstrated strength in Node.js, Express.js, TypeScript, Docker for efficient deployment, and experience with Java and Scala for RESTful APIs. Implemented AWS Cognito and AWS Lambda for secure authentication and serverless computing.",
+        "Worked with MongoDB and DynamoDB, adapting data storage strategies based on project needs for efficient data management.",
+        "Executed SEO strategies, committed to web optimization for faster load times and improved user experience. Maintained clean code principles for readability and maintainability.",
+        " Collaborated effectively within an agile SCRUM framework for iterative feature delivery, emphasizing flexibility and efficiency in project management."
+      ],
+      "skills": [
+        {
+          "name": "React.js",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "User Interfaces", "Engaging Design"
+          ]
+        },
+        {
+          "name": "Angular",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "User Interfaces"
+          ]
+        },
+        {
+          "name": "React Native",
+          "level": "proficient",
+          "keywords": [
+            "Mobile Development", "Consistent User Experiences"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "W3C Standards", "Responsive Design"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "Code Quality", "Maintainability"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "Server-Side Development"
+          ]
+        },
+        {
+          "name": "Express.js",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "RESTful APIs"
+          ]
+        },
+        {
+          "name": "Docker",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Efficient Deployment"
+          ]
+        },
+        {
+          "name": "Java",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "RESTful APIs"
+          ]
+        },
+        {
+          "name": "Scala",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "RESTful APIs"
+          ]
+        },
+        {
+          "name": "AWS Cognito",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Secure Authentication"
+          ]
+        },
+        {
+          "name": "AWS Lambda",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Serverless Computing"
+          ]
+        },
+        {
+          "name": "MongoDB",
+          "level": "proficient",
+          "keywords": [
+            "Database", "Data Storage"
+          ]
+        },
+        {
+          "name": "DynamoDB",
+          "level": "proficient",
+          "keywords": [
+            "Database", "Data Storage"
+          ]
+        },
+        {
+          "name": "SEO",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Search Engine Rankings", "Organic Visibility"
+          ]
+        },
+        {
+          "name": "Web Optimization",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Faster Load Times", "User Experience"
+          ]
+        },
+        {
+          "name": "Clean Code",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Readability", "Maintainability"
+          ]
+        },
+        {
+          "name": "Agile SCRUM",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Collaboration", "Iterative Feature Delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waverley Software",
+      "position": "Full Stack Developer",
+      "url": "https://waverleysoftware.com",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "As Fullstack Developer at IVT, led successful migration of legacy website to a modern platform, demonstrating strong leadership and technical prowess.",
+      "highlights": [
+        "Started the company"
+      ],
+      "tasks": [
+        "Transformed the user interface using React.js, focusing on modern and user-friendly design, and maintained a modular codebase with styled components.",
+        "Developed robust server-side functionalities and optimized a MySQL database to meet the new site's requirements, ensuring efficient data migration and management.",
+        "Implemented a CI/CD pipeline for automated testing and deployment processes, ensuring a smooth transition from the old to the new site.",
+        "Followed SCRUM methodologies for agile project management, fostering efficient collaboration and iterative development throughout the migration process.",
+        "Utilized SQS for efficient messaging and task queuing, ensuring data integrity during the migration process."
+      ],
+      "skills": [
+        {
+          "name": "React.js",
+          "level": "advanced",
+          "keywords": [
+            "Web Development", "Frontend", "JavaScript Library", "UI"
+          ]
+        },
+        {
+          "name": "Styled Components",
+          "level": "advanced",
+          "keywords": [
+            "Modular Codebase", "Maintainability", "Frontend"
+          ]
+        },
+        {
+          "name": "Storybook",
+          "level": "advanced",
+          "keywords": [
+            "Component Development", "Documentation", "Frontend"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "level": "intermediate",
+          "keywords": [
+            "Backend Development", "JavaScript Runtime"
+          ]
+        },
+        {
+          "name": "MySQL",
+          "level": "advanced",
+          "keywords": [
+            "Database Design", "Optimization", "Backend"
+          ]
+        },
+        {
+          "name": "CI/CD",
+          "level": "advanced",
+          "keywords": [
+            "Continuous Integration", "Continuous Deployment", "Automation"
+          ]
+        },
+        {
+          "name": "SCRUM",
+          "level": "intermediate",
+          "keywords": [
+            "Agile Project Management", "Collaboration", "Iterative Development"
+          ]
+        },
+        {
+          "name": "AWS SQS",
+          "level": "intermediate",
+          "keywords": [
+            "Messaging", "Task Queuing", "Data Integrity"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "OMNi",
+      "position": "Full Stack Developer",
+      "url": "http://omni.cr/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "As a FullStack Developer, I played a vital role in designing, developing, and optimizing platforms such as OMN1CR, OMN1News, OMN1Guia, and OSPI, contributing to enhanced user experiences and streamlined services.",
+      "highlights": [
+        "Started the company"
+      ],
+      "tasks": [
+        "Demonstrated expertise in React.js, TypeScript, CSS3, and Next.js for frontend development, ensuring adherence to W3C standards and efficient server-side rendering.",
+        "Proficient in React Native, ensuring seamless and consistent user experiences across various devices.",
+        "Strong command of Node.js, Nest.js, TypeScript, and Serverless architecture for scalable, cost-effective solutions. Expertise in Docker for efficient deployment and Express.js for RESTful APIs.",
+        "Proficient in MySQL and DynamoDB, adapting data storage strategies based on project requirements.",
+        "Implemented SEO strategies, optimized web performance for faster load times, maintained clean and readable code, collaborated within an agile SCRUM framework, developed Progressive Web Applications (PWAs), and managed content using Contentful for dynamic content delivery."
+      ],
+      "skills": [
+        {
+          "name": "React.js",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "W3C Standards", "Responsive Design"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "Robust Code", "User Interfaces"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "Robust Code", "User Interfaces"
+          ]
+        },
+        {
+          "name": "Next.js",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "Server-Side Rendering", "Routing"
+          ]
+        },
+        {
+          "name": "React Native",
+          "level": "proficient",
+          "keywords": [
+            "Mobile Development", "Consistent User Experiences"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "Server-Side Development"
+          ]
+        },
+        {
+          "name": "Nest.js",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "Server-Side Development"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "Server-Side Development"
+          ]
+        },
+        {
+          "name": "Serverless Architecture",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "Scalable Solutions", "Cost-Effective Solutions"
+          ]
+        },
+        {
+          "name": "Docker",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Efficient Deployment"
+          ]
+        },
+        {
+          "name": "Express.js",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "RESTful APIs"
+          ]
+        },
+        {
+          "name": "AppWrite",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Secure Authentication"
+          ]
+        },
+        {
+          "name": "AWS Cognito",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Secure Authentication"
+          ]
+        },
+        {
+          "name": "AWS Lambda",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Serverless Computing"
+          ]
+        },
+        {
+          "name": "Socket-based Communication",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Real-Time Features"
+          ]
+        },
+        {
+          "name": "MySQL",
+          "level": "proficient",
+          "keywords": [
+            "Database", "Data Storage"
+          ]
+        },
+        {
+          "name": "DynamoDB",
+          "level": "proficient",
+          "keywords": [
+            "Database", "Data Storage"
+          ]
+        },
+        {
+          "name": "SEO",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Search Engine Rankings"
+          ]
+        },
+        {
+          "name": "Web Optimization",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Faster Load Times", "User Experience"
+          ]
+        },
+        {
+          "name": "Clean Code",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Readability", "Maintainability"
+          ]
+        },
+        {
+          "name": "Agile SCRUM",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Collaboration", "Iterative Feature Delivery"
+          ]
+        },
+        {
+          "name": "Progressive Web Applications (PWAs)",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Mobile Experiences"
+          ]
+        },
+        {
+          "name": "Contentful",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Headless CMS", "Dynamic Content Delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grupo AR",
+      "position": "Full Stack Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "summary": "As a Fullstack Developer at Group AR, I played a pivotal role in creating and maintaining the company's flagship websites. In this multifaceted position, I handled frontend, backend, and DevOps tasks, ensuring the robustness and efficiency of our online platforms throughout my tenure.",
+      "highlights": [
+        "Started the company"
+      ],
+      "tasks": [
+       "Crafted engaging and interactive user interfaces using Vue.js, maintained W3C standards in CSS3, and ensured responsive design for visually appealing websites.",
+       "Developed robust server-side components using Node.js and Express.js, implemented GraphQL and Apollo GraphQL for efficient data querying, and leveraged ExpressionEngine for streamlined content management.",
+       "Worked with both MySQL and MongoDB databases, selecting the right solution based on project requirements to ensure efficient data storage.",
+       "Orchestrated seamless deployment processes using AWS, Nginx, and Cloudflare, ensuring high availability and scalability. Managed application processes effectively with PM2 for optimal performance.",
+       "Executed SEO implementation strategies, committed to web optimization practices, maintained clean code principles with a focus on readability and maintainability, proficient in GIT for version control, and implemented Firebase Auth for secure user authentication."
+      ],
+      "skills": [
+        {
+          "name": "Vue.js",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "User Interfaces", "Interactive Design"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "W3C Standards", "Responsive Design"
+          ]
+        },
+        {
+          "name": "TypeScript",
+          "level": "proficient",
+          "keywords": [
+            "Frontend Development", "Code Quality", "Maintainability"
+          ]
+        },
+        {
+          "name": "Node.js",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Server-Side Components"
+          ]
+        },
+        {
+          "name": "Express.js",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Robust APIs"
+          ]
+        },
+        {
+          "name": "GraphQL",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Efficient Data Querying"
+          ]
+        },
+        {
+          "name": "Apollo GraphQL",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Efficient Data Manipulation"
+          ]
+        },
+        {
+          "name": "ExpressionEngine",
+          "level": "proficient",
+          "keywords": [
+            "Backend Development", "Content Management"
+          ]
+        },
+        {
+          "name": "MySQL",
+          "level": "proficient",
+          "keywords": [
+            "Database", "Data Storage"
+          ]
+        },
+        {
+          "name": "MongoDB",
+          "level": "proficient",
+          "keywords": [
+            "Database", "Data Storage"
+          ]
+        },
+        {
+          "name": "AWS",
+          "level": "proficient",
+          "keywords": [
+            "DevOps", "Deployment", "High Availability", "Scalability"
+          ]
+        },
+        {
+          "name": "Nginx",
+          "level": "proficient",
+          "keywords": [
+            "DevOps", "Deployment", "Optimal Performance"
+          ]
+        },
+        {
+          "name": "Cloudflare",
+          "level": "proficient",
+          "keywords": [
+            "DevOps", "Deployment", "High Availability", "Scalability"
+          ]
+        },
+        {
+          "name": "PM2",
+          "level": "proficient",
+          "keywords": [
+            "DevOps", "Deployment", "Optimal Performance"
+          ]
+        },
+        {
+          "name": "SEO",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Search Engine Rankings", "Organic Visibility"
+          ]
+        },
+        {
+          "name": "Web Optimization",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Faster Load Times", "User Experience"
+          ]
+        },
+        {
+          "name": "Clean Code",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Readability", "Maintainability"
+          ]
+        },
+        {
+          "name": "GIT",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Version Control", "Collaboration"
+          ]
+        },
+        {
+          "name": "Firebase Auth",
+          "level": "proficient",
+          "keywords": [
+            "Additional Skills", "Secure User Authentication", "Data Integrity"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Universidad Técnica Nacional",
+    "url": "https://www.utn.ac.cr/",
+    "area": "Software engineering",
+    "studyType": "Bachelor",
+    "startDate": "2015-01-01",
+    "endDate": "2018-01-01",
+    "score": "9.0",
+    "courses": []
+  }],
+  "certificates": [
+    {
+    "name": "LinuxEssentials",
+    "date": "2018-01-01",
+    "issuer": "Cisco Networking Academy",
+    "url": "https://www.netacad.com/"
+  },
+  {
+    "name": "Build ReactApp with Firebase",
+    "date": "2022-05-01",
+    "issuer": "Udemy",
+    "url": "https://www.udemy.com/"
+  }  
+],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": []
+}
