@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { ReactNode } from 'react';
 
 interface IProps {
   title?: string;
@@ -7,8 +7,8 @@ interface IProps {
 
 function Section({ title, children }: IProps) {
   return (
-    <section className='p-3 my-2'>
-      {title && <h2 className='text-xl font-bold font-sans'>{title}</h2>}
+    <section className="p-3 my-2">
+      {title && <h2 className="text-xl font-bold font-sans">{title}</h2>}
       {children}
     </section>
   );
