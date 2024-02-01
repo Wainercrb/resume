@@ -6,8 +6,8 @@ import Certification from 'src/components/Certification';
 
 function Home() {
   return (
-    <main className="h-screen px-12 py-4">
-      <div className="max-w-2xl mx-auto">
+    <main className="h-screen lg:px-12 lg:py-4 print:px-12 print:py-4 p-4">
+      <div className="lg:max-w-2xl mx-auto">
         <Hero />
         <About />
         <Experience />

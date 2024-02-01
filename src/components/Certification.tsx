@@ -15,7 +15,7 @@ function Certification() {
                     <h3 className="font-mono font-bold">{name}</h3>
                   </div>
 
-                  <time className="font-mono">{date}</time>
+                  <time className="font-mono md:text-base">{date}</time>
                 </header>
 
                 <footer>

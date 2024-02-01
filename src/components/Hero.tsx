@@ -26,7 +26,7 @@ const SOCIAL_ICONS: any = {
 function Hero() {
   return (
     <Section>
-      <div className="flex flex-row items-center justify-between">
+      <div className="flex flex-row justify-between items-start">
         <div className="pr-6">
           <h1 className="text-2xl font-bold mb-2">{name}</h1>
           <h2 className="font-mono text-slate-500">{label}</h2>

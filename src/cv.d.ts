@@ -83,21 +83,21 @@ interface Languages {
 }
 
 type Language =
-  | "Spanish"
-  | "English"
-  | "German"
-  | "France"
-  | "Italian"
-  | "Korean"
-  | "Portuguese"
-  | "Chinese"
-  | "Arabic"
-  | "Dutch"
-  | "Finnish"
-  | "Russian"
-  | "Turkish"
-  | "Hindi"
-  | "Bengali"
+  | 'Spanish'
+  | 'English'
+  | 'German'
+  | 'France'
+  | 'Italian'
+  | 'Korean'
+  | 'Portuguese'
+  | 'Chinese'
+  | 'Arabic'
+  | 'Dutch'
+  | 'Finnish'
+  | 'Russian'
+  | 'Turkish'
+  | 'Hindi'
+  | 'Bengali'
   | string;
 
 interface Projects {
@@ -109,4 +109,4 @@ interface Projects {
   github?: string;
 }
 
-type Highlight = Array<String>;
+type Highlight = Array<string>;
