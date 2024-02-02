@@ -13,7 +13,7 @@ function Experience() {
             item;
           const startYear = new Date(startDate).getFullYear();
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : 'Actual';
+            endDate != null ? new Date(endDate).getFullYear() : 'Current';
           const years = `${startYear} - ${endYear}`;
 
           return (
