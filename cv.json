@@ -47,137 +47,163 @@
         "Collaborated effectively within an agile SCRUM framework for iterative feature delivery, emphasizing flexibility and efficiency in project management."
       ],
       "skills": [
-        {
+          {
           "name": "React.js",
           "level": "proficient",
           "keywords": [
-            "Frontend Development", "User Interfaces", "Engaging Design"
+            "Frontend Development",
+            "User Interfaces",
+            "Engaging Design"
           ]
         },
         {
           "name": "Angular",
           "level": "proficient",
           "keywords": [
-            "Frontend Development", "User Interfaces"
+            "Frontend Development",
+            "User Interfaces"
           ]
         },
         {
           "name": "React Native",
           "level": "proficient",
           "keywords": [
-            "Mobile Development", "Consistent User Experiences"
+            "Mobile Development",
+            "Consistent User Experiences"
           ]
         },
         {
           "name": "CSS3",
           "level": "proficient",
           "keywords": [
-            "Frontend Development", "W3C Standards", "Responsive Design"
+            "Frontend Development",
+            "W3C Standards",
+            "Responsive Design"
           ]
         },
         {
           "name": "TypeScript",
           "level": "proficient",
           "keywords": [
-            "Frontend Development", "Code Quality", "Maintainability"
+            "Frontend Development",
+            "Code Quality",
+            "Maintainability"
           ]
         },
         {
           "name": "Node.js",
           "level": "strong",
           "keywords": [
-            "Backend Development", "Server-Side Development"
+            "Backend Development",
+            "Server-Side Development"
           ]
         },
         {
           "name": "Python",
           "level": "strong",
           "keywords": [
-            "Backend Development", "Server-Side Development"
+            "Backend Development",
+            "Server-Side Development"
           ]
         },
         {
           "name": "Express.js",
           "level": "strong",
           "keywords": [
-            "Backend Development", "RESTful APIs"
+            "Backend Development",
+            "RESTful APIs"
           ]
         },
         {
           "name": "Docker",
           "level": "proficient",
           "keywords": [
-            "Backend Development", "Efficient Deployment"
+            "Backend Development",
+            "Efficient Deployment"
           ]
         },
         {
           "name": "Java",
           "level": "proficient",
           "keywords": [
-            "Backend Development", "RESTful APIs"
+            "Backend Development",
+            "RESTful APIs"
           ]
         },
         {
           "name": "Scala",
           "level": "proficient",
           "keywords": [
-            "Backend Development", "RESTful APIs"
+            "Backend Development",
+            "RESTful APIs"
           ]
         },
         {
           "name": "AWS Cognito",
           "level": "proficient",
           "keywords": [
-            "Backend Development", "Secure Authentication"
+            "Backend Development",
+            "Secure Authentication"
           ]
         },
         {
           "name": "AWS Lambda",
           "level": "proficient",
           "keywords": [
-            "Backend Development", "Serverless Computing"
+            "Backend Development",
+            "Serverless Computing"
           ]
         },
         {
           "name": "MongoDB",
           "level": "proficient",
           "keywords": [
-            "Database", "Data Storage"
+            "Database",
+            "Data Storage"
           ]
         },
         {
           "name": "DynamoDB",
           "level": "proficient",
           "keywords": [
-            "Database", "Data Storage"
+            "Database",
+            "Data Storage"
           ]
         },
         {
           "name": "SEO",
           "level": "proficient",
           "keywords": [
-            "Additional Skills", "Search Engine Rankings", "Organic Visibility"
+            "Additional Skills",
+            "Search Engine Rankings",
+            "Organic Visibility"
           ]
         },
         {
           "name": "Web Optimization",
           "level": "proficient",
           "keywords": [
-            "Additional Skills", "Faster Load Times", "User Experience"
+            "Additional Skills",
+            "Faster Load Times",
+            "User Experience"
           ]
         },
         {
           "name": "Clean Code",
           "level": "proficient",
           "keywords": [
-            "Additional Skills", "Readability", "Maintainability"
+            "Additional Skills",
+            "Readability",
+            "Maintainability"
           ]
         },
         {
           "name": "Agile SCRUM",
           "level": "proficient",
           "keywords": [
-            "Additional Skills", "Collaboration", "Iterative Feature Delivery"
+            "Additional Skills",
+            "Collaboration",
+            "Iterative Feature Delivery"
           ]
         }
       ]

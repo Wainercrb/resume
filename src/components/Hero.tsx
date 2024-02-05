@@ -40,7 +40,7 @@ function Hero() {
           <footer className="no-print flex flex-row gap-3 mt-2 no-print">
             {email && (
               <a
-                className="p-3 border-2 border-inherit rounded-md"
+                className="p-3 border-2 border-inherit rounded-md hover:opacity-60"
                 href={`mailto:${email}`}
                 title={`Send mail to ${name} using ${email}`}
                 target="_blank"
@@ -51,7 +51,7 @@ function Hero() {
             )}
             {phone && (
               <a
-                className="p-3 border-2 border-inherit rounded-md"
+                className="p-3 border-2 border-inherit rounded-md hover:opacity-60"
                 href={`tel:${phone}`}
                 title={`Call to ${name} al número ${phone}`}
                 target="_blank"
@@ -60,12 +60,12 @@ function Hero() {
                 <Phone />
               </a>
             )}
-            {profiles.map(({ network, url, username }) => {
+            {profiles.map(({ network, url }) => {
               const Icon = SOCIAL_ICONS[network];
 
               return (
                 <a
-                  className="p-3 border-2 border-inherit rounded-md"
+                  className="p-3 border-2 border-inherit rounded-md hover:opacity-60"
                   key={network}
                   href={url}
                   title={`Check profile ${name} en ${network}`}
