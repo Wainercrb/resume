@@ -41,9 +41,10 @@
       "tasks": [
         "Utilized React.js, Angular, and React Native to craft engaging and interactive user interfaces. Maintained a strong commitment to CSS3 with adherence to W3C standards, ensuring responsive and visually appealing designs. Employed TypeScript for enhanced code quality and maintainability.",
         "Demonstrated strength in Node.js, Express.js, TypeScript, Docker for efficient deployment, and experience with Java and Scala for RESTful APIs. Implemented AWS Cognito and AWS Lambda for secure authentication and serverless computing.",
+        "Developed AWS Lambda functions using Python, enhancing serverless capabilities and contributing to the overall efficiency of the project.",
         "Worked with MongoDB and DynamoDB, adapting data storage strategies based on project needs for efficient data management.",
         "Executed SEO strategies, committed to web optimization for faster load times and improved user experience. Maintained clean code principles for readability and maintainability.",
-        " Collaborated effectively within an agile SCRUM framework for iterative feature delivery, emphasizing flexibility and efficiency in project management."
+        "Collaborated effectively within an agile SCRUM framework for iterative feature delivery, emphasizing flexibility and efficiency in project management."
       ],
       "skills": [
         {
@@ -83,6 +84,13 @@
         },
         {
           "name": "Node.js",
+          "level": "strong",
+          "keywords": [
+            "Backend Development", "Server-Side Development"
+          ]
+        },
+        {
+          "name": "Python",
           "level": "strong",
           "keywords": [
             "Backend Development", "Server-Side Development"
