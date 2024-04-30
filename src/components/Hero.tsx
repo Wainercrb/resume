@@ -80,7 +80,7 @@ function Hero() {
         </div>
         <figure>
           <img
-            className="object-cover rounded-2xl aspect-square"
+            className="object-cover rounded-2xl aspect-square md:w-52"
             src={image}
             alt={name}
           />
