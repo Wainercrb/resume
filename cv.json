@@ -214,12 +214,12 @@
       "url": "https://waverleysoftware.com",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "As Fullstack Developer at IVT, led successful migration of legacy website to a modern platform, demonstrating strong leadership and technical prowess.",
+      "summary": "As a Fullstack Developer at IVT, spearheaded the seamless migration of a legacy website to a modern platform, showcasing exemplary leadership and advanced technical proficiency, particularly in GraphQL integration for enhanced data retrieval and manipulation.",
       "highlights": [
         "Started the company"
       ],
       "tasks": [
-        "Transformed the user interface using React.js, focusing on modern and user-friendly design, and maintained a modular codebase with styled components.",
+        "Enhanced the user interface using React.js and leveraged GraphQL for seamless data retrieval, prioritizing modern and user-friendly design principles while maintaining a modular codebase with styled components.",
         "Developed robust server-side functionalities and optimized a MySQL database to meet the new site's requirements, ensuring efficient data migration and management.",
         "Implemented a CI/CD pipeline for automated testing and deployment processes, ensuring a smooth transition from the old to the new site.",
         "Followed SCRUM methodologies for agile project management, fostering efficient collaboration and iterative development throughout the migration process.",
