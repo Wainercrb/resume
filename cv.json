@@ -255,6 +255,13 @@
           ]
         },
         {
+          "name": "GraphQL",
+          "level": "advanced",
+          "keywords": [
+             "Backend Development", "JavaScript ORM"
+          ]
+        },
+        {
           "name": "MySQL",
           "level": "advanced",
           "keywords": [
